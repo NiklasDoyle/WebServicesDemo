@@ -25,7 +25,7 @@ public class Service : IService
         string locationURL = @"https://skyscanner44.p.rapidapi.com/search-extended?adults=1&origin="+locA+"&destination="+locB+"&departureDate="+date+"&currency=USD";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(locationURL);
         request.Headers.Add("X-RapidAPI-Host", "skyscanner44.p.rapidapi.com");
-        request.Headers.Add("X-RapidAPI-Key", "cae369fc12mshbb0dcf913fa132cp10e978jsn68b4acdbd1dd");
+        request.Headers.Add("X-RapidAPI-Key", "/*INSERT KEY*/");
 
         HttpWebResponse response = (HttpWebResponse)request.GetResponse();
         Stream dataStream = response.GetResponseStream();
