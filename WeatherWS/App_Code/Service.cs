@@ -33,7 +33,7 @@ public class Service : IService
         }
 
         
-        string locationURL = @"http://api.positionstack.com/v1/forward?query="+newLocation+"&country=US&access_key=56068d8de5550f1589c9390d1557d757";
+        string locationURL = @"http://api.positionstack.com/v1/forward?query="+newLocation+"&country=US&access_key=/*INSERT KEY*/";
 
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(locationURL);
         WebResponse response = request.GetResponse();
