@@ -1,0 +1,22 @@
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.exe.config
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.exe
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.pdb
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.AssemblyReference.cache
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.Form1.resources
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.Properties.Resources.resources
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.GenerateResource.cache
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.CoreCompileInputs.cache
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.exe
+C:\Users\Niklas Doyle\Desktop\School\Junior\Junior Code\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.pdb
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.exe.config
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.exe
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\bin\Debug\WeatherTryIt.pdb
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.AssemblyReference.cache
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.Form1.resources
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.Properties.Resources.resources
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.GenerateResource.cache
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.csproj.CoreCompileInputs.cache
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.exe
+C:\Users\Niklas Doyle\Desktop\CSE445_HW3\WeatherTryIt\obj\Debug\WeatherTryIt.pdb
