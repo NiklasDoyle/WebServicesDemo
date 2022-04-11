@@ -21,19 +21,12 @@ public class Service : IService
 	public string[] GetWords(string url)
 	{
 		string[] words = new string[10];
-        /*
-        var client = new RestClient("https://lexper.p.rapidapi.com/v1.1/extract?url=https%3A%2F%2Fmedium.com%2Fpersonal-growth%2Fhow-to-be-yourself-2221085391a3&js=auto&js_timeout=5");
-        var request = new RestRequest(Method.GET);
-        request.AddHeader("X-RapidAPI-Host", "lexper.p.rapidapi.com");
-        request.AddHeader("X-RapidAPI-Key", "cae369fc12mshbb0dcf913fa132cp10e978jsn68b4acdbd1dd");
-        IRestResponse response = client.Execute(request);
-        */
 
         string locationURL = @"https://lexper.p.rapidapi.com/v1.1/extract?url=" + url + "&js=auto&js_timeout=5";
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(locationURL);
         //request.Method = "GET";
         request.Headers.Add("X-RapidAPI-Host", "lexper.p.rapidapi.com");
-        request.Headers.Add("X-RapidAPI-Key", "cae369fc12mshbb0dcf913fa132cp10e978jsn68b4acdbd1dd");
+        request.Headers.Add("X-RapidAPI-Key", "/*INSERT KEY*/");
 
         HttpWebResponse response = (HttpWebResponse)request.GetResponse();
         Stream dataStream = response.GetResponseStream();
