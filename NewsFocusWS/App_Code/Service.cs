@@ -34,7 +34,7 @@ public class Service : IService
                 newCountry += topicChar[i];
         }
 
-		string url = @"https://newsapi.org/v2/everything?q=" + newCountry + "&sortBy=relevancy&apiKey=6417f2672c874e04a82b2eec309c712f";
+		string url = @"https://newsapi.org/v2/everything?q=" + newCountry + "&sortBy=relevancy&apiKey=/*INSERT KEY*/";
 
 		HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
 		WebResponse response = request.GetResponse();
